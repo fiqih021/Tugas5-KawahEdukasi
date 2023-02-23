@@ -7,7 +7,7 @@ public class Segitiga extends Lahan {
     @Override
     double luas() {
         // TODO Auto-generated method stub
-        return sisiAlas * tinggi;
+        return (sisiAlas * tinggi) / 2;
     }
 
     @Override
